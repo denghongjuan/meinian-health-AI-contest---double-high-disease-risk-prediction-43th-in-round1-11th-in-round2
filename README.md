@@ -1,5 +1,5 @@
-# meinian-health-AI-contest---double-high-disease-risk-prediction-43th-in-round1-12th-in-round2
-阿里云天池算法大赛 美年健康AI大赛—双高疾病风险预测解决方案，初赛43，复赛12
+# meinian-health-AI-contest---double-high-disease-risk-prediction-43th-in-round1-11th-in-round2
+阿里云天池算法大赛 美年健康AI大赛—双高疾病风险预测解决方案，初赛43，复赛11
 
 由于是在最后一两个星期才开始处理特征，初赛的特征清洗做的比较粗糙，本次开源的代码是在的初赛的代码上加入了部分复赛特征挖掘代码；
 初赛的最终得分是0.0287，这次整理的代码交叉验证的分数比之前的好很多，都是单模型预测未做模型融合，所以还是有不少提升空间的。
